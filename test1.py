@@ -1,6 +1,5 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-
 # from selenium.webdriver.common.keys import Keys
 # from selenium.webdriver.support.wait import WebDriverWait
 # from selenium.webdriver.common.actions.action_builder import ActionBuilder
@@ -50,13 +49,14 @@ def cancel_all():
           print('overlay fail')
 
 def open_check(order):
+     print(order ," Order")
      start_time = time.time()
      while True:
           try:
             driver.find_element(By.CSS_SELECTOR,'.css-j0mvbd')
             break
           except:
-               time.sleep(9)
+               time.sleep(15)
 
           global avg_price
           avg_price = float(driver.find_element(By.CSS_SELECTOR,'.contractPrice').text.replace(',',''))
@@ -67,10 +67,10 @@ def open_check(order):
 
           if time.time() - start_time > 69.0 :
                print('timeout 😥 do something ')
-               if order == "buy" :
-                    cancel_all()
-                    buyorderplace(avg_price)
-                    return
+            #    if order == "buy" :
+            #         cancel_all()
+            #         buyorderplace(avg_price)
+            #         return
      return
 
 def buyorderplace(low):
@@ -95,7 +95,6 @@ def buyorderplace(low):
      orderplace.clear()
      orderplace.send_keys(available_usdt)
      driver.find_element(By.ID,'orderformBuyBtn').click()
-     open_check("buy")
 
 def sellorderPlace(high):
      print('inside sell order')
@@ -103,18 +102,18 @@ def sellorderPlace(high):
      curr_high = float(driver.find_element(By.CSS_SELECTOR,'.orderbook-list.orderbook-ask  .orderbook-progress:nth-child(3) .ask-light').text)
      walletcash =  driver.find_elements(By.CSS_SELECTOR,'.css-k4h8bj')
 
-     start = time.time()
+    #  start = time.time()
      # Sell code
      high_point = float(max(curr_high,high))
-     while high_point - buy_price <= 4.0 :
+     while high_point - buy_price <= 3.5 :
           high_point = float(driver.find_element(By.CSS_SELECTOR,'.contractPrice').text.replace(',',''))
-
-          diff = buy_price - high_point
-          if time.time() - start > 269 and (diff > 10 and diff < 20):
-               cancel_all()
-               open_check("sell")
-               sellorderPlace(high_point)
-          time.sleep(1)
+          time.sleep(3)
+        #   diff = buy_price - high_point
+        #   if time.time() - start > 269 and (diff > 10 and diff < 20):
+        #        cancel_all()
+        #        open_check("sell")
+        #        sellorderPlace(high_point)
+        #   time.sleep(1)
 
      sell = driver.find_element(By.ID,'FormRow-SELL-price')
      sell.clear()
@@ -127,9 +126,10 @@ def sellorderPlace(high):
      sellplace.clear()
      sellplace.send_keys(available_btc)
      driver.find_element(By.ID,'orderformSellBtn').click()
-     open_check("sell")
+    #  open_check("sell")
 
 if __name__ == '__main__':
+     passcheck()
      footer = driver.find_element(By.CSS_SELECTOR,'.footer-sticky')
      driver.execute_script("arguments[0].style.position = 'static'", footer )
      driver.execute_script("arguments[0].style.zIndex = '0'", footer )
@@ -142,6 +142,9 @@ if __name__ == '__main__':
           recorded_low = low_point
           print(" current record low {} iteration {} ".format(recorded_low , i))
           buyorderplace(low_point)
+          open_check("buy")
           sellorderPlace(high_point)
+          open_check("sell")
+          time.sleep(15)
           if i % 5 == 0 :
                gc.collect()
