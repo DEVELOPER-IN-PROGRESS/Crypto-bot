@@ -1,0 +1,131 @@
+1674769546025	geckodriver	INFO	Listening on 127.0.0.1:51301
+1674769549046	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51302" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofileAxRY1T"
+1674769549955	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674769549968	Marionette	INFO	Listening on port 51309
+Read port: 51309
+WebDriver BiDi listening on ws://127.0.0.1:51302
+1674769550493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofileAxRY1T\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51302/devtools/browser/e7fb9663-7fef-4096-b06e-35e2e905cfde
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1674771747017	geckodriver	INFO	Listening on 127.0.0.1:51488
+1674771750057	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51489" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofileG5liky"
+1674771750993	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674771751012	Marionette	INFO	Listening on port 51497
+Read port: 51497
+WebDriver BiDi listening on ws://127.0.0.1:51489
+1674771751515	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofileG5liky\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51489/devtools/browser/1007509d-0669-4d38-9955-42d78bf16d60
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1674772565458	geckodriver	INFO	Listening on 127.0.0.1:51644
+1674772568501	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51645" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofileuqCxOH"
+1674772569479	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674772569492	Marionette	INFO	Listening on port 51653
+Read port: 51653
+WebDriver BiDi listening on ws://127.0.0.1:51645
+1674772569892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofileuqCxOH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51645/devtools/browser/bc68ce1c-3c61-4983-b980-5697539eb7a7
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1674773161485	geckodriver	INFO	Listening on 127.0.0.1:51766
+1674773164498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51767" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofilecOv3KJ"
+1674773165482	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674773165496	Marionette	INFO	Listening on port 51775
+Read port: 51775
+WebDriver BiDi listening on ws://127.0.0.1:51767
+1674773166015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofilecOv3KJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51767/devtools/browser/ad5ab290-03f5-4158-ae97-44c223101770
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1674773319671	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1674915863598	geckodriver	INFO	Listening on 127.0.0.1:52270
+1674915866682	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52271" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofilem9oUo5"
+1674915867622	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674915867641	Marionette	INFO	Listening on port 52279
+Read port: 52279
+WebDriver BiDi listening on ws://127.0.0.1:52271
+1674915868145	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofilem9oUo5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52271/devtools/browser/cc775dd2-68eb-4fcc-8ff8-91bd6d1f3499
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674916070060	Marionette	INFO	Stopped listening on port 52271674916070688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52377" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofiledxIG0B"
+1674916071681	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674916071698	Marionette	INFO	Listening on port 52388
+Read port: 52388
+WebDriver BiDi listening on ws://127.0.0.1:52377
+1674916072212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofiledxIG0B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52377/devtools/browser/9bef9c96-c6c0-49de-8cd3-365374f180cd
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1674916242712	Marionette	INFO	Stopped listening on port 52388
+Dynamically enable window occlusion 1

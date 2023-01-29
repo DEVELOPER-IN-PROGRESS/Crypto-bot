@@ -1,10 +1,12 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+
 # from selenium.webdriver.common.keys import Keys
 # from selenium.webdriver.support.wait import WebDriverWait
 # from selenium.webdriver.common.actions.action_builder import ActionBuilder
 # from selenium.webdriver.common.actions.mouse_button import MouseButton
 import time
+import gc
 
 driver = webdriver.Firefox()
 driver.get('https://accounts.binance.com/en/login?return_to=aHR0cHM6Ly93d3cuYmluYW5jZS5jb20vZW4vdHJhZGUvQlRDX1VTRFQ_dGhlbWU9ZGFyayZ0eXBlPXNwb3Q%3D')
@@ -14,13 +16,14 @@ recorded_high = 0
 
 avg_price = 0
 
-while True:
-     user_input = input("Enter the key:")
-     if user_input == "keys":
-          print(" correct !")
-          break
-     else:
-          print("Try again.")
+def passcheck():
+     while True:
+          user_input = input("Enter the key:")
+          if user_input == "keys":
+               print(" correct !")
+               break
+          else:
+               print("Try again.")
 
 buy_price = 0
 sell_price = 0
@@ -53,16 +56,16 @@ def open_check(order):
             driver.find_element(By.CSS_SELECTOR,'.css-j0mvbd')
             break
           except:
-               time.sleep(13)
+               time.sleep(9)
 
           global avg_price
           avg_price = float(driver.find_element(By.CSS_SELECTOR,'.contractPrice').text.replace(',',''))
 
-          if order == "buy" and buy_price - avg_price < 10:
-               cancel_all()
-               buyorderplace(avg_price)
+          # if order == "buy" and buy_price - avg_price < 10:
+          #      cancel_all()
+          #      buyorderplace(avg_price)
 
-          if time.time() - start_time > 169.0 :
+          if time.time() - start_time > 69.0 :
                print('timeout 😥 do something ')
                if order == "buy" :
                     cancel_all()
@@ -100,11 +103,18 @@ def sellorderPlace(high):
      curr_high = float(driver.find_element(By.CSS_SELECTOR,'.orderbook-list.orderbook-ask  .orderbook-progress:nth-child(3) .ask-light').text)
      walletcash =  driver.find_elements(By.CSS_SELECTOR,'.css-k4h8bj')
 
+     start = time.time()
      # Sell code
      high_point = float(max(curr_high,high))
-     while high_point - buy_price <= 7.0 :
+     while high_point - buy_price <= 4.0 :
           high_point = float(driver.find_element(By.CSS_SELECTOR,'.contractPrice').text.replace(',',''))
-          time.sleep(0.5)
+
+          diff = buy_price - high_point
+          if time.time() - start > 269 and (diff > 10 and diff < 20):
+               cancel_all()
+               open_check("sell")
+               sellorderPlace(high_point)
+          time.sleep(1)
 
      sell = driver.find_element(By.ID,'FormRow-SELL-price')
      sell.clear()
@@ -125,7 +135,7 @@ if __name__ == '__main__':
      driver.execute_script("arguments[0].style.zIndex = '0'", footer )
      count = 0
 
-     for i in range(0,5):
+     for i in range(0,13):
           low_point = float(driver.find_element(By.CSS_SELECTOR,'.orderbook-list.orderbook-bid  .orderbook-progress:nth-child(4) .bid-light').text)
           high_point = float(driver.find_element(By.CSS_SELECTOR,'.orderbook-list.orderbook-ask  .orderbook-progress:nth-child(6) .ask-light').text)
           print(" global record low {}  ".format(recorded_low))
@@ -133,3 +143,5 @@ if __name__ == '__main__':
           print(" current record low {} iteration {} ".format(recorded_low , i))
           buyorderplace(low_point)
           sellorderPlace(high_point)
+          if i % 5 == 0 :
+               gc.collect()
