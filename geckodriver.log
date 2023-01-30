@@ -327,3 +327,995 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1674996281159	geckodriver	INFO	Listening on 127.0.0.1:64639
+1674996284221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64640" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofileAiRp2a"
+1674996285264	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674996285280	Marionette	INFO	Listening on port 64649
+Read port: 64649
+WebDriver BiDi listening on ws://127.0.0.1:64640
+1674996286080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofileAiRp2a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64640/devtools/browser/11d4fc52-a698-4dd5-8052-95c35fedc676
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1674996330925	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1674996741027	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1674996760367	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1675019262501	geckodriver	INFO	Listening on 127.0.0.1:61871
+1675019265639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61872" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofile1B1pwl"
+1675019266707	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675019266723	Marionette	INFO	Listening on port 61879
+Read port: 61879
+WebDriver BiDi listening on ws://127.0.0.1:61872
+1675019267252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofile1B1pwl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61872/devtools/browser/e5372849-a2c6-4af1-8155-dd9183ad24be
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675019330367	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675019672251	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675019758727	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675019795684	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675019802079	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675019930177	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675020209373	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675020245331	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675020283142	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675020291150	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675020392358	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675020468116	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675020505969	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675020527496	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675020568511	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675020658242	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675020681161	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675020688728	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675020711830	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675020721253	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675020761333	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675020785247	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1675020946629	Marionette	INFO	Stopped listening on port 61879
+Dynamically enable window occlusion 1
+1675020949054	geckodriver	INFO	Listening on 127.0.0.1:62147
+1675020952103	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62148" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofiley9oxaT"
+1675020953074	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675020953087	Marionette	INFO	Listening on port 62155
+Read port: 62155
+WebDriver BiDi listening on ws://127.0.0.1:62148
+1675020953674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofiley9oxaT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62148/devtools/browser/04802721-d387-45cf-849a-2258498ef185
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675021310294	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675021484275	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675021497511	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675021616730	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675021643626	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675021673268	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675021703489	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675021731520	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1675023660886	geckodriver	INFO	Listening on 127.0.0.1:50602
+1675023663946	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50603" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofileEEFchg"
+1675023664880	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675023664898	Marionette	INFO	Listening on port 50610
+Read port: 50610
+WebDriver BiDi listening on ws://127.0.0.1:50603
+1675023665511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofileEEFchg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50603/devtools/browser/470a2a2d-6fb3-4310-8972-ffcbceb3fe2a
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Failed to add session data entry for frame targets in browsing context" 4294967298
+console.warn: (new AbortError("Actor 'DevToolsFrame' destroyed before query 'DevToolsFrameParent:addSessionDataEntry' was resolved", (void 0)))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:712:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: Error: Got notified about channel 33208687132928 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33208687132928 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 33208687132930 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33208687132930 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 33208687132931 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33208687132931 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 33208687132932 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33208687132932 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 33208687132933 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33208687132933 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 33208687132934 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33208687132934 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 33208687132935 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33208687132935 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 33208687132939 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33208687132939 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 33208687132968 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33208687132968 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 33208687132969 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33208687132969 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 33208687132970 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33208687132970 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 33208687132972 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33208687132972 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 33208687132974 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33208687132974 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 33208687132976 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33208687132976 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 33208687132977 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33208687132977 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 33208687132978 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33208687132978 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/network-observer/NetworkObserver.sys.mjs :: #onResponseHeader :: line 1013"  data: no]
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1013:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:553:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:662:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1013, column: 0
+console.error: ({})
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2398))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1675023969113	Marionette	INFO	Stopped listening on port 50610
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ng: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675024279475	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: "Error while destroying front:" "accessibility" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967301/accessibilityActor13, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ninitialize@resource://devtools/client/fronts/accessibility.js:535:46\nmanage@resource://devtools/shared/protocol/Front.js:146:19\ngetFront@resource://devtools/shared/protocol/types.js:562:18\ngetFront@resource://devtools/client/fronts/targets/target-mixin.js:343:15\n_getAccessibilityFront@resource://devtools/client/inspector/inspector.js:582:49\n_onTargetAvailable@resource://devtools/client/inspector/inspector.js:283:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Exception when calling onAvailable handler" "Connection closed, pending request to server0.conn0.windowGlobal4294967301/accessibilityActor13, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ninitialize@resource://devtools/client/fronts/accessibility.js:535:46\nmanage@resource://devtools/shared/protocol/Front.js:146:19\ngetFront@resource://devtools/shared/protocol/types.js:562:18\ngetFront@resource://devtools/client/fronts/targets/target-mixin.js:343:15\n_getAccessibilityFront@resource://devtools/client/inspector/inspector.js:582:49\n_onTargetAvailable@resource://devtools/client/inspector/inspector.js:283:12\n" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967301/accessibilityActor13, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ninitialize@resource://devtools/client/fronts/accessibility.js:535:46\nmanage@resource://devtools/shared/protocol/Front.js:146:19\ngetFront@resource://devtools/shared/protocol/types.js:562:18\ngetFront@resource://devtools/client/fronts/targets/target-mixin.js:343:15\n_getAccessibilityFront@resource://devtools/client/inspector/inspector.js:582:49\n_onTargetAvailable@resource://devtools/client/inspector/inspector.js:283:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new TypeError("this.toolbox.resourceCommand is null", "resource://devtools/client/inspector/inspector.js", 223))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1675025436363	geckodriver	INFO	Listening on 127.0.0.1:51016
+1675025439396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51017" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofilemQRDmd"
+1675025440426	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675025440440	Marionette	INFO	Listening on port 51024
+Read port: 51024
+WebDriver BiDi listening on ws://127.0.0.1:51017
+1675025440948	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofilemQRDmd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51017/devtools/browser/6b4a20e2-a5ee-437a-bc15-3665b000ea5c
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967306/inspectorActor4, type getPageStyle failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getPageStyle@resource://devtools/client/fronts/inspector.js:106:34\ninitialize@resource://devtools/client/fronts/inspector.js:81:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967306/inspectorActor4, type getPageStyle failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getPageStyle@resource://devtools/client/fronts/inspector.js:106:34\ninitialize@resource://devtools/client/fronts/inspector.js:81:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Error while calling actor 'domwalker's method 'getEmbedderElement'" "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode]"
+console.error: ({})
+Handler function threw an exception: Error: Got notified about channel 33148557590792 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33148557590792 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 33148557590793 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33148557590793 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 33148557590797 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33148557590797 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 33148557590799 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33148557590799 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 33148557590801 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33148557590801 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 33148557590802 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33148557590802 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 33148557590803 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33148557590803 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 33148557590804 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33148557590804 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 33148557590805 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33148557590805 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 33148557590806 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33148557590806 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 33148557590807 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33148557590807 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 33148557590808 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33148557590808 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 33148557590810 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33148557590810 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 33148557590811 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33148557590811 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 33148557590812 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33148557590812 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+console.warn: "Listener for event 'frame' did not return a promise."
+Handler function threw an exception: Error: Got notified about channel 33148557590898 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33148557590898 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 33148557590899 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33148557590899 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 33148557590900 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 33148557590900 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 572))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 572))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 572))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2398))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 572))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 572))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1007))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal4294967301/pagestyle41 (resource://devtools/server/actors/page-style.js:1007:5)", "resource://devtools/shared/protocol/Front.js", 383))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 572))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675025700321	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675025707590	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675025790274	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2398))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1007))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal4294967301/pagestyle23 (resource://devtools/server/actors/page-style.js:1007:5)", "resource://devtools/shared/protocol/Front.js", 383))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 572))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 572))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 572))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2398))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Handler function threw an exception: Error: Got notified about channel 46789373723012 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 46789373723012 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+NetworkHelper.parseSecurityInfo threw an exception: Security state 0 has no known STATE_IS_* flags.
+console.error: "Security state 0 has no known STATE_IS_* flags."
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967304/layout23, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967308/layout23, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967301/layout192, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:452:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Unable to find target with innerWindowId:4294967301"
+console.error: "Unable to find target with innerWindowId:4294967301"
+console.warn: "Listener for event 'frame' did not return a promise."
+Handler function threw an exception: Error: Got notified about channel 39436389714360 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 39436389714360 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 46789373723404 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 46789373723404 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 46789373723406 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 46789373723406 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 46789373723407 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 46789373723407 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 46789373723408 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 46789373723408 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 46789373723409 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 46789373723409 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 46789373723410 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 46789373723410 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 46789373723414 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 46789373723414 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+Handler function threw an exception: Error: Got notified about channel 46789373723415 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:263:13
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:725:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 263, column: 13
+console.error: (new Error("Got notified about channel 46789373723415 more than once.", "resource://devtools/server/actors/resources/network-events.js", 263))
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1675027978004	Marionette	INFO	Stopped listening on port 60773
+Dynamically enable window occlusion 1
+1675027987934	geckodriver	INFO	Listening on 127.0.0.1:54396
+1675027990979	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54397" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofileoBWboy"
+1675027992031	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675027992043	Marionette	INFO	Listening on port 54406
+Read port: 54406
+WebDriver BiDi listening on ws://127.0.0.1:54397
+1675027992479	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofileoBWboy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54397/devtools/browser/bccb6a74-fb38-4280-8bf4-c555f721f550
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675028204611	Marionette	INFO	Stopped listening on port 54406
+Dynamically enable window occlusion 1
+1675028232733	geckodriver	INFO	Listening on 127.0.0.1:54513
+1675028235802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54514" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofiledzJnlc"
+1675028236779	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675028236793	Marionette	INFO	Listening on port 54521
+Read port: 54521
+WebDriver BiDi listening on ws://127.0.0.1:54514
+1675028237290	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofiledzJnlc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54514/devtools/browser/0077f331-933f-44c7-a8fe-d938fb02966a
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675028912375	geckodriver	INFO	Listening on 127.0.0.1:54610
+1675028915406	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54611" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofileLyHzYX"
+1675028916321	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675028916334	Marionette	INFO	Listening on port 54618
+Read port: 54618
+WebDriver BiDi listening on ws://127.0.0.1:54611
+1675028916852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofileLyHzYX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54611/devtools/browser/a723576b-f9f3-4e69-ac4a-61fc25f72ddf
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675028958607	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675029271832	geckodriver	INFO	Listening on 127.0.0.1:54729
+1675029274891	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54730" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofilemdOnAl"
+1675029275799	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675029275817	Marionette	INFO	Listening on port 54738
+Read port: 54738
+WebDriver BiDi listening on ws://127.0.0.1:54730
+1675029276284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofilemdOnAl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54730/devtools/browser/7fe99be1-e703-4747-b86e-6f29c4a409e7
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675030274358	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1675031820731	geckodriver	INFO	Listening on 127.0.0.1:56045
+1675031823794	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56046" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofile7JwR4v"
+1675031824903	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675031824921	Marionette	INFO	Listening on port 56055
+Read port: 56055
+WebDriver BiDi listening on ws://127.0.0.1:56046
+1675031825455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofile7JwR4v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56046/devtools/browser/c7973ca0-877d-40bd-8278-d207952c1fd8
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675033318820	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675033348883	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675033361202	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1675033376548	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1675033390115	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675033401064	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+1675034845406	Marionette	INFO	Stopped listening on port 56055
+Dynamically enable window occlusion 1
+1675070187229	geckodriver	INFO	Listening on 127.0.0.1:53350
+1675070190301	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53351" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofileYFd21c"
+1675070191277	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675070191292	Marionette	INFO	Listening on port 53360
+Read port: 53360
+WebDriver BiDi listening on ws://127.0.0.1:53351
+1675070191857	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\johns\\AppData\\Local\\Temp\\rust_mozprofileYFd21c\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53351/devtools/browser/3b1815ab-e8e1-49a8-bf3c-efd19c2fed08
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/_next/static-br/static/runtime/main-5f09d7599aaf2b54ac7e.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bin.bnbstatic.com/static-br/static/runtime/main-c0e7c7607f8702c7cc89.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.binance.com."

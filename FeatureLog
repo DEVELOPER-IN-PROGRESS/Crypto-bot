@@ -4,4 +4,10 @@ Pros::
     instantaneous
 Cons::
     Works only in bullish market
+    works only when market rises
+    No stop Loss limit
+    Time consuming
+
+V2:
+Cancel Order based on timeout
 
