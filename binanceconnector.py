@@ -20,7 +20,7 @@ client = Spot()
 client = Spot(env.API_KEY, env.API_SECRET)
 
 # Get account and balance information
-# print(client.account())
+print(client.account())
 
 # Post a new order
 # params = {
@@ -41,18 +41,18 @@ params = {
     'price': 23018
 }
 
-try:
-    # response = client.new_order(**params)
-    # print(client.coin_info(**params))
-    print('success')
-except:
-    print('fail')
+# try:
+#     response = client.new_order(**params)
+#     print(client.coin_info(**params))
+#     print('success')
+# except:
+#     print('fail')
 
 # client.cancel_open_orders("BTCUSDT")
-
+client.get_open_orders("BTCUSDT")
 # try:
-#     client.get_open_orders("BTCUSDT")
-#     print('here')
+#     k = client.get_open_orders("BTCUSDT")
+#     print(k)
 # except:
 #     print('nothing open')
 
@@ -64,4 +64,5 @@ except:
 
 # print(json.dumps(client.asset_detail(),sort_keys=True, indent=4))
 # print(json.dumps(client.coin_info(),sort_keys=True, indent=4)) # not reqd
-print(json.dumps(client.user_asset(),sort_keys=True, indent=4))  # coin balance
+# coin balance
+# print(json.dumps(client.user_asset(),sort_keys=True, indent=4))

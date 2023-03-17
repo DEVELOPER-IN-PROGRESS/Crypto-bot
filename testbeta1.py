@@ -35,9 +35,9 @@ buy_price = 0
 sell_price = 0
 
 def cancel_all():
-     print('Cancelling ok ?')
-     time.sleep(5)
-     client.cancel_open_orders("BTCUSDT")
+     k = client.get_open_orders("BTCUSDT")
+     if len(k) > 0:
+          client.cancel_open_orders("BTCUSDT")
      # try:
      #      cross = driver.find_elements(By.CSS_SELECTOR,'.css-19tho47')
      #      for e in cross:
